@@ -43,12 +43,12 @@ section {
 }
 
 .title {
-  margin-top: 1rem;
-  text-align: center;
-}
-.sub-title{
   text-align: center;
   margin-bottom: 2rem !important;
+}
+.sub-title{
+  margin-top: 1rem;
+  text-align: center;
 }
 .btn {
   font-weight: 600;
@@ -219,7 +219,7 @@ a:hover {
   margin-top: -2rem;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 90vh;
 }
 
 .section__pic-container {

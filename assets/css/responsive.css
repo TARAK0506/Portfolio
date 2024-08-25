@@ -115,6 +115,10 @@
   .logo{
     font-size: 1.2rem;
   }
+  #profile{
+    margin-top: 1rem;
+    height: 70vh;
+  }
   #profile h1{
     font-size: 2rem;
   }
@@ -144,9 +148,13 @@
   .about-containers{
     display: block;
   }
+  .about-details-container h3,
   .details-container h3{
     font-size: 1rem;
   }
+  footer p,
+  #contact p,
+  .about-details-container p,
   .details-container p{
     font-size: .7rem;
   }

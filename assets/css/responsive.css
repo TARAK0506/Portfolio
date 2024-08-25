@@ -163,10 +163,15 @@
     height: auto;
   }
   .counter-section .counter{
-    font-size: 2.1rem;
+    font-size: 1.8rem;
   }
   .counter-container span{
-    font-size: 2rem !important;
+    margin-right: .5rem;
+    font-size: 1.5rem !important;
+  }
+  .counter-container {
+    width: 100%;
+    margin-left: 1.5rem;
   }
   .projects-list .project-item{
     height: 100%;
